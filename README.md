@@ -41,4 +41,4 @@ This repository contains two simple frontend projects:
 
 3.JavaScript (for form validation).
 
-4.Bootstrap
+4.Bootstrap and simple UI/UX
